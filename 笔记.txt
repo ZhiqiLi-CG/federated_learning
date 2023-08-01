@@ -1,0 +1,28 @@
+Mode Fusion and Linear connectivity
+
+1. 2016， On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima
+讲解 sharp minima-large batch - low generation 关系的
+
+2. 2018， Essentially No Barriers in Neural Network Energy Landscape
+揭示了minima不是有width的最低点，而是一个路径（低维流形），并使用ANEB算法对平坦的路径进行计算
+
+1. Model fusion and permutation invariance: Git Re-Basin: Merging Models modulo Permutation Symmetries.
+https://www.linkresearcher.com/theses/6a4398c8-dfe1-401f-ade6-c85a2f6bd2b3
+
+2. 
+
+想法：
+
+1. model fusion 2022： 更快
+
+2. model fusion 2022： 在中间加约束
+
+3. transformer的model fusion（cnn研究的比较多）
+
+4. 本地模型到全局模型的连接性
+
+https://kindxiaoming.github.io
+
+
+理论机器学习：https://zhuanlan.zhihu.com/p/336617712
+Uniform convergence：https://zhuanlan.zhihu.com/p/343000124
